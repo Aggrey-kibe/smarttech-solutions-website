@@ -1,0 +1,145 @@
+<html lan<!DOCTYPE html>
+g="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SmartTech Solutions</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Roboto', sans-serif; }
+    body { background: #f5f7fb; color: #222; line-height: 1.6; }
+
+    header {
+      background: linear-gradient(135deg, #0d6efd, #001f54);
+      color: white;
+      padding: 80px 20px;
+      text-align: center;
+    }
+
+    header h1 { font-size: 3rem; }
+    header p { margin: 15px 0; font-size: 1.2rem; opacity: .9; }
+
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 14px 36px;
+      background: #ffc107;
+      color: #111;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 30px;
+      transition: .3s;
+    }
+
+    .btn:hover { background: #e0a800; transform: translateY(-2px); }
+
+    section {
+      max-width: 1100px;
+      margin: 40px auto;
+      background: white;
+      padding: 60px 30px;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,.08);
+      text-align: center;
+    }
+
+    section h2 { margin-bottom: 20px; }
+
+    .services {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin-top: 30px;
+    }
+
+    .card {
+      padding: 25px;
+      border-radius: 12px;
+      background: #f8f9fa;
+      transition: .3s;
+    }
+
+    .card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 10px 20px rgba(0,0,0,.1);
+    }
+
+    form {
+      max-width: 500px;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    input, textarea {
+      padding: 12px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      padding: 12px;
+      border: none;
+      background: #0d6efd;
+      color: white;
+      font-weight: bold;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>SmartTech Solutions</h1>
+  <p>Reliable IT Services for Homes & Businesses</p>
+  <a href="#contact" class="btn">Get Service</a>
+</header>
+
+<section>
+  <h2>About Us</h2>
+  <p>SmartTech Solutions provides professional IT services including computer repair, networking, and website development. We help businesses grow using modern technology.</p>
+</section>
+
+<section>
+  <h2>Our Services</h2>
+  <div class="services">
+    <div class="card">
+      <h3>Computer Repair</h3>
+      <p>We fix hardware and software issues quickly and professionally.</p>
+    </div>
+    <div class="card">
+      <h3>Network Setup</h3>
+      <p>Home and office WiFi installation and configuration.</p>
+    </div>
+    <div class="card">
+      <h3>Website Design</h3>
+      <p>Modern websites for schools, churches, and businesses.</p>
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <form>
+    <input type="text" placeholder="Your Name" required>
+    <input type="email" placeholder="Your Email" required>
+    <textarea rows="4" placeholder="Your Message"></textarea>
+    <button>Send Message</button>
+  </form>
+</section>
+
+<footer>
+  <p>© 2026 SmartTech Solutions</p>
+</footer>
+
+</body>
+</html>
