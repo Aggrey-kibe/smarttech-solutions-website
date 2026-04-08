@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻 SmartTech Solutions – Professional IT Business Website
+   SmartTech Solutions – Professional IT Business Website
 </h1>
 
 <p align="center">
@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="https://aggrey-kibe.github.io/smarttech-solutions-website/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Website-Open-brightgreen?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/
+%20Live%20Website-Open-brightgreen?style=for-the-badge&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/HTML5-100%25-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-100%25-blue?style=for-the-badge&logo=css3" />
@@ -20,7 +21,7 @@
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 **SmartTech Solutions** is a modern, fully responsive business website representing a real-world IT services company.
 
@@ -36,9 +37,9 @@ This project demonstrates:
 
 **Services Offered:**
 
-- 💻 Computer Repair  
-- 🌐 Network Setup  
-- 🖥️ Website Design  
+-  Computer Repair  
+-  Network Setup  
+-  Website Design  
 
 **Target Clients:**
 
@@ -49,7 +50,7 @@ This project demonstrates:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
@@ -63,7 +64,7 @@ This project demonstrates:
 
 ---
 
-## ✨ Features
+## Features
 
 - Professional landing header with call‑to‑action  
 - About section for company profile  
@@ -74,7 +75,7 @@ This project demonstrates:
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Building complete websites from zero  
 - Writing clean, semantic HTML  
@@ -90,7 +91,7 @@ This project demonstrates:
 
 ---
 
-## 🚧 Future Improvements
+##  Future Improvements
 
 - JavaScript form handling  
 - Email integration  
@@ -105,7 +106,7 @@ This project demonstrates:
 
 ---
 
-## 🌐 Live Preview
+##  Live Preview
 
 <p align="center">
   <a href="https://aggrey-kibe.github.io/smarttech-solutions-website/">
@@ -113,12 +114,12 @@ This project demonstrates:
   </a>
 </p>
 
-🔗 **Live Website:**  
+ **Live Website:**  
 https://aggrey-kibe.github.io/smarttech-solutions-website/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Aggrey Kibe**  
 Aspiring Software Developer & Cybersecurity Specialist  
